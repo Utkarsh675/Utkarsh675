@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Utkarsh675/Utkarsh675/blob/main/Blue%20Modern%20and%20Minimal%20Service%20Business%20Twitter%20Header%20(1).png)
 ![logo](https://github.com/Utkarsh675/Utkarsh675/blob/main/Blue%20Modern%20and%20Minimal%20Service%20Business%20Twitter%20Header.png)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Rastogi</h1>
