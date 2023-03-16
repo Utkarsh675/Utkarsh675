@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **uvrastogi2244@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19-q2PkANSVovuvWevlnc3q_GGvWqyk6n/view](https://drive.google.com/file/d/19-q2PkANSVovuvWevlnc3q_GGvWqyk6n/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19-q2PkANSVovuvWevlnc3q_GGvWqyk6n/view](https://drive.google.com/file/d/1L44x0y-U62BIXyX2x72yOXgmZ9w68ETA/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
