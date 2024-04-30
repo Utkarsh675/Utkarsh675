@@ -32,4 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh675&show_icons=true&locale=en" alt="utkarsh675" /></p>
 
-<video>github-contribution-grid-snake.svg</video>
+<br>
+
+![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg)
