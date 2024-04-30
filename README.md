@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh675&show_icons=true&locale=en&layout=compact" alt="utkarsh675" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh675&show_icons=true&locale=en" alt="utkarsh675" /></p>
+
+<video>github-contribution-grid-snake.svg</video>
